@@ -26,7 +26,7 @@
     width:100%;
     height:372px;
     background:#1D0042;
-    padding:10px;
+    padding:12px;
     display:grid;
     grid-template-columns:repeat(3, 1fr);
     align-items:center;;
